@@ -34,7 +34,7 @@
 - Integración de APIs RESTful y autenticación con JWT.
 
 #### 🔸 El Pie castillo Web (En proceso)
-- Página web y móvil para un restaurante con proceso y automatización de reservas mediante IA
+- Página web y móvil para un restaurante local
 
 ### 🌍 Idiomas
 - Español (Nativo)
