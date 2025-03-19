@@ -6,19 +6,27 @@
 🛠️ Tecnologías y Herramientas
 
 🔹 Frontend
-JavaScript (ES6+), HTML, CSS, Bootstrap
-React.js
+-JavaScript (ES6+)
+-React.js
+-HTML
+-CSS
+-Bootstrap
+-Material UI
+
 🔹 Backend
-Python 
-Flask
-APIs RESTful
-Autenticación con JWT
+-Python
+-Flask
+-APIs RESTful
+-Autenticación con JWT
+
 🔹 Bases de Datos
-SQLAlchemy
-PostgreSQL
+-SQLAlchemy
+-PostgreSQL
+
 🔹 Control de Versiones y DevOps
-Git, GitHub
-Render, Cloudinary
+-Git/ GitHub
+-Render
+-Cloudinary
 
 📌 Proyectos Destacados
 
