@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 ¡Hola! Soy Adrian Neuville Quesada
+💻 Desarrollador Full-Stack | Frontend JavaScript y React | Backend Python y Flask
+🚀 Apasionado por la tecnología, el desarrollo web y la seguridad en aplicaciones.
 
-<!--
-**AdrianNQ99/AdrianNQ99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías y Herramientas
+🔹 Frontend
+JavaScript (ES6+), HTML, CSS, Bootstrap
+React.js
+🔹 Backend
+Python 
+Flask
+APIs RESTful
+Autenticación con JWT
+🔹 Bases de Datos
+SQLAlchemy
+PostgreSQL
+🔹 Control de Versiones y DevOps
+Git, GitHub
+Render, Cloudinary
+📌 Proyectos Destacados
+🔸 SeeYaTFB
+🔹 Plataforma de búsqueda y reserva de hoteles, vuelos y coches.
+🔹 Integración de APIs RESTful y autenticación con JWT.
 
-Here are some ideas to get you started:
+🔸 El Pie castillo Web (En proceso)
+🔹 Pagina web y mobil para un restaurante
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Idiomas
+Español (Nativo)
+Francés (Nativo)
+Inglés (Alto)
+
+📫 Contacto
+📍 Aguilas, España
+📧 aneuville99@gmail.com
+🔗 LinkedIn
+🔗 GitHub
