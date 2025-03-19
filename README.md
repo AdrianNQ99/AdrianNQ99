@@ -1,7 +1,6 @@
 ## 👋 ¡Hola! Soy Adrian Neuville Quesada
 
 💻 Desarrollador Full-Stack | Frontend JavaScript y React | Backend Python y Flask
-🚀 Apasionado por la tecnología, el desarrollo web y la seguridad en aplicaciones.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -35,7 +34,7 @@
 - Integración de APIs RESTful y autenticación con JWT.
 
 #### 🔸 El Pie castillo Web (En proceso)
-- Página web y móvil para un restaurante
+- Página web y móvil para un restaurante con proceso y automatización de reservas mediante IA
 
 ### 🌍 Idiomas
 - Español (Nativo)
